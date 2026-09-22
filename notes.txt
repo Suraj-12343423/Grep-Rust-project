@@ -1,0 +1,4 @@
+Hello Rust
+Rust is fast
+I like C
+I am learning systems programming
